@@ -39,9 +39,10 @@
 
 
 ### Схема данных
+<img width="1207" height="706" alt="изображение" src="https://github.com/user-attachments/assets/f5f81453-753c-4c9b-a9b6-2c3ef426d196" />
 
 Описание отношений и структур данных, используемых в ПС. Также представить скрипт (программный код), который необходим для генерации БД
-<img width="1310" height="679" alt="изображение" src="https://github.com/user-attachments/assets/c0434edb-37ab-4646-a5bf-1d35ccb4178f" />
+
 
 ---
 
