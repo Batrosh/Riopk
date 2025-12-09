@@ -21,8 +21,8 @@ MyService — это веб-ориентированное программно�
 
 **Ссылки на репозитории:**
 
-*   **Серверная часть:** https://github.com/batrosh/myservice_server
-*   **Клиентская часть:** https://github.com/batrosh/myservice_client
+*   **Серверная часть:** https://github.com/Batrosh/myservice_server
+*   **Клиентская часть:** https://github.com/Batrosh/myservice_client
 
 ---
 
